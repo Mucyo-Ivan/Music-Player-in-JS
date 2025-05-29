@@ -117,6 +117,102 @@ const music_list = [
         artist : 'Central Cee ft 21 Savage',
         music : 'music/Central Cee - GBP (Lyrics) ft. 21 Savage.mp3'
     },
+    {
+        img : 'images/Bliss.jpeg',
+        name : 'Bliss',
+        artist : 'Tyla',
+        music : 'music/Tyla - Bliss (Official Audio)-yt.savetube.me.mp3'
+    },
+    {
+        img : 'images/Ayra.jpeg',
+        name : 'Gimme Dat',
+        artist : 'Ayra Starr & Wizkid',
+        music : 'music/Ayra Starr & Wizkid - Gimme Dat (Lyric Video)-yt.savetube.me.mp3'
+    },
+    {
+        img : 'images/Lady.jpg',
+        name : 'My Oh My',
+        artist : 'Camila Cabello ft. DaBaby',
+        music : 'music/Camila Cabello - My Oh My (Official Music Video) ft. DaBaby-yt.savetube.me.mp3'
+    },
+    {
+        img : 'images/Major.jpg',
+        name : 'Kikankane',
+        artist : 'DJ PYFO ft. Kivumbi King',
+        music : 'music/DJ PYFO - Kikankane Ft Kivumbi King (Official Video).mp3'
+    },
+    {
+        img : 'images/Her_loss.jpeg',
+        name : 'On BS',
+        artist : 'Drake, 21 Savage',
+        music : 'music/Drake, 21 Savage - On BS (Audio)-yt.savetube.me.mp3'
+    },
+    {
+        img : 'images/sheeran.jpeg',
+        name : 'Azizam',
+        artist : 'Ed Sheeran',
+        music : 'music/Ed Sheeran - Azizam (Official Music Video)-yt.savetube.me.mp3'
+    },
+    {
+        img : 'images/Gunna.jpg',
+        name : 'let it breathe',
+        artist : 'Gunna feat. Roddy Ricch',
+        music : 'music/Gunna - let it breathe (feat. Roddy Ricch) [Official Visualizer]-yt.savetube.me.mp3'
+    },
+    {
+        img : 'images/meddy.jpg',
+        name : 'Adi Top',
+        artist : 'Meddy',
+        music : 'music/Meddy - Adi Top (Official Video)-yt.savetube.me.mp3'
+    },
+    {
+        img : 'images/Lady.jpg',
+        name : 'Whenever',
+        artist : 'Megan Thee Stallion',
+        music : 'music/Megan Thee Stallion - Whenever [Official Video]-yt.savetube.me.mp3'
+    },
+    {
+        img : 'images/McRae.jpeg',
+        name : 'What I Want',
+        artist : 'Morgan Wallen, Tate McRae',
+        music : 'music/Morgan Wallen, Tate McRae - What I Want (Audio)-yt.savetube.me.mp3'
+    },
+    {
+        img : 'images/McRae.jpeg',
+        name : 'Nostalgia',
+        artist : 'Tate McRae',
+        music : 'music/Tate McRae - Nostalgia (Lyric Video)-yt.savetube.me.mp3'
+    },
+    {
+        img : 'images/McRae.jpeg',
+        name : 'Signs',
+        artist : 'Tate McRae',
+        music : 'music/Tate McRae - Signs (Lyric Video)-yt.savetube.me.mp3'
+    },
+    {
+        img : 'images/McRae.jpeg',
+        name : 'Siren sounds',
+        artist : 'Tate McRae',
+        music : 'music/Tate McRae - Siren sounds (Lyric Video).mp3'
+    },
+    {
+        img : 'images/McRae.jpeg',
+        name : 'cut my hair',
+        artist : 'Tate McRae',
+        music : 'music/Tate McRae - cut my hair.mp3'
+    },
+    {
+        img : 'images/McRae.jpeg',
+        name : 'hurt my feelings',
+        artist : 'Tate McRae',
+        music : 'music/Tate McRae - hurt my feelings.mp3'
+    },
+    {
+        img : 'images/Young-Thug-Money-On-Money.webp',
+        name : 'Money On Money',
+        artist : 'Young Thug feat. Future',
+        music : 'music/Young Thug - Money On Money (feat. Future) [Official Video]-yt.savetube.me.mp3'
+    },
 ];
 
 loadTrack(track_index);
